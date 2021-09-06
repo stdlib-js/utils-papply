@@ -138,6 +138,12 @@ for ( i = 0; i < 100; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/papply-right`][@stdlib/utils/papply-right]: partially apply function arguments from the right.
+
 </section>
 
 <!-- /.related -->
@@ -198,6 +204,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-papply/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/papply-right]: https://github.com/stdlib-js/utils-papply-right
+
+<!-- </related-links> -->
 
 </section>
 
