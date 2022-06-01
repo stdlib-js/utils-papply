@@ -175,6 +175,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
@@ -190,8 +195,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/utils-papply.svg
 [npm-url]: https://npmjs.org/package/@stdlib/utils-papply
 
-[test-image]: https://github.com/stdlib-js/utils-papply/actions/workflows/test.yml/badge.svg?branch=v0.0.9
-[test-url]: https://github.com/stdlib-js/utils-papply/actions/workflows/test.yml?query=branch:v0.0.9
+[test-image]: https://github.com/stdlib-js/utils-papply/actions/workflows/test.yml/badge.svg?branch=v0.0.10
+[test-url]: https://github.com/stdlib-js/utils-papply/actions/workflows/test.yml?query=branch:v0.0.10
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-papply/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-papply?branch=main
@@ -217,6 +222,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [umd-url]: https://github.com/stdlib-js/utils-papply/tree/umd
 [esm-url]: https://github.com/stdlib-js/utils-papply/tree/esm
 [branches-url]: https://github.com/stdlib-js/utils-papply/blob/main/branches.md
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-papply/main/LICENSE
 
 <!-- <related-links> -->
 
