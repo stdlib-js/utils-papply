@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.papply;
+})();
 })();
 </script>
 ```
@@ -120,6 +122,7 @@ sum = add2( 7 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var fcn;
 var w;
@@ -142,6 +145,7 @@ for ( i = 0; i < 100; i++ ) {
     console.log( '5+4+3+%d+%d+%d = %d', w, t, s, v );
 }
 
+})();
 })();
 </script>
 </body>
@@ -245,7 +249,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/utils/papply-right]: https://github.com/stdlib-js/utils-papply-right/tree/umd
+[@stdlib/utils/papply-right]: https://github.com/stdlib-js/utils-papply-right/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
