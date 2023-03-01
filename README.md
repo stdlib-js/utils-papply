@@ -150,7 +150,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/papply-right`][@stdlib/utils/papply-right]</span><span class="delimiter">: </span><span class="description">partially apply function arguments from the right.</span>
+-   <span class="package-name">[`@stdlib/utils-papply-right`][@stdlib/utils/papply-right]</span><span class="delimiter">: </span><span class="description">partially apply function arguments from the right.</span>
 
 </section>
 
