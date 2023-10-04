@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@deno/mod.js';
+import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.1.1-deno/mod.js';
 ```
 
 #### papply( fcn\[, ...args] )
@@ -101,7 +101,7 @@ sum = add2( 7 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
-import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@deno/mod.js';
+import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.1.1-deno/mod.js';
 
 var fcn;
 var w;
