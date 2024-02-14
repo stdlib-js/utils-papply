@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-papply/tags). For example,
+
+```javascript
 import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.2.0-deno/mod.js';
 ```
 
@@ -101,7 +106,7 @@ sum = add2( 7 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
-import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.2.0-deno/mod.js';
+import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@deno/mod.js';
 
 var fcn;
 var w;
