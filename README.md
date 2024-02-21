@@ -54,7 +54,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-papply = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@umd/browser.js' )
+papply = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.2.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -66,7 +66,7 @@ var papply = require( 'path/to/vendor/umd/utils-papply/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.2.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -128,7 +128,7 @@ sum = add2( 7 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.2.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
