@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-papply/tags). For example,
+
+```javascript
 import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.2.2-esm/index.mjs';
 ```
 
@@ -106,7 +111,7 @@ sum = add2( 7 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@esm/index.mjs';
-import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@v0.2.2-esm/index.mjs';
+import papply from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-papply@esm/index.mjs';
 
 var fcn;
 var w;
